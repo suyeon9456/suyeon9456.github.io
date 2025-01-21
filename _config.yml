@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 조수연 # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 3년차 프론트엔드 개발자 입니다. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.

@@ -5,6 +5,8 @@ order: 4
 ---
 
 ### 프론트엔드 개발자  
+# 조수연  
+  
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 <i class="fa-fw fas fa-envelope"></i> 이메일: [eunhye9450@gmail.com](mailto:eunhye9450@gmail.com)  
@@ -167,6 +169,7 @@ order: 4
                     <li>결제 데이터 문서화 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#%EA%B2%B0%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EC%84%9C%ED%99%94" target="_blank">경력 기술서 보기</a>)</li>
                     <li>백 오피스 정산 프로세스 자동화 기능 기획 및 개발 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#%EC%A0%95%EC%82%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%8A%A5-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-%EA%B0%9C%EB%B0%9C" target="_blank">경력 기술서 보기</a>)</li>
                     <li>에디터 기능 추가 및 유지보수</li>
+                    <li>랜딩 페이지 리뉴얼</li>
                     <li>신규 팀원을 위한 온보딩</li>
                 </ul>
             </div>

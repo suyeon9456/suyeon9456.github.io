@@ -109,7 +109,7 @@ order: 4
                         </ul>
                     </li>
                     <li>
-                        디자인 토큰 도입 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#sentry-%EB%8F%84%EC%9E%85" target="_blank">경력 기술서 보기</a>)
+                        디자인 토큰 도입 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%86%A0%ED%81%B0-%EB%8F%84%EC%9E%85" target="_blank">경력 기술서 보기</a>)
                         <ul>
                             <li>피그마 플러그인을 사용해 디자인 변경 사항을 .json 토큰 파일로 생성한 뒤, 토큰 파일을 GitHub에 디자이너 전용 브랜치로 푸시</li>
                             <li>Token Transformer 및 Style Dictionary 활용해, .json 파일을 코드에서 사용할 수 있는 형식(.ts, .scss, .css 등)으로 변환</li>
@@ -127,7 +127,7 @@ order: 4
                 <h5>기술 스택 전환 및 업그레이드</h5>
                 <ul>
                     <li>
-                        Next.js 버전 업그레이드 주도
+                        Next.js 버전 업그레이드 주도 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#nextjs-%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EC%A3%BC%EB%8F%84" target="_blank">경력 기술서 보기</a>)
                         <ul>
                             <li>
                                 모노레포 환경에서 발생한 다중 React 버전 문제를 해결
@@ -164,9 +164,10 @@ order: 4
                 <h5>기타</h5>
                 <ul>
                     <li>stibee.com 리액트 전환</li>
-                    <li>결제 데이터 문서화</li>
-                    <li>백 오피스 정산 프로세스 자동화 기능 기획 및 개발</li>
+                    <li>결제 데이터 문서화 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#%EA%B2%B0%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EC%84%9C%ED%99%94" target="_blank">경력 기술서 보기</a>)</li>
+                    <li>백 오피스 정산 프로세스 자동화 기능 기획 및 개발 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#%EC%A0%95%EC%82%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%8A%A5-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-%EA%B0%9C%EB%B0%9C" target="_blank">경력 기술서 보기</a>)</li>
                     <li>에디터 기능 추가 및 유지보수</li>
+                    <li>신규 팀원을 위한 온보딩</li>
                 </ul>
             </div>
         </div>

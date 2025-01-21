@@ -9,6 +9,10 @@
   font-size: 16px;
 }
 
+*:not(i) {
+  font-family: 'Pretendard' !important;    
+}
+
 html {
   @media (prefers-color-scheme: light) {
     &:not([data-mode]),

@@ -215,6 +215,14 @@ order: 4
                 <li>알고리즘 스터디</li>
             </ul>
         </div>
+        <div class="content">
+            <header>
+                <h3 id="title">사내 뉴스레터 에디터 활동</h3>
+            </header>
+            <ul>
+                <li>beletter 에디터</li>
+            </ul>
+        </div>
     </article>
 </section>
 

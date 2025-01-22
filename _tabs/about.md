@@ -71,13 +71,13 @@ order: 4
                 <h5>SEO 최적화</h5>
                 <ul>
                     <li>
-                        CSR 환경에서 동적 OG 태그 적용 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#csr-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%8F%99%EC%A0%81-og-%ED%83%9C%EA%B7%B8-%EC%A0%81%EC%9A%A9" target="_blank">경력 기술서 보기</a>)
+                        CSR 환경에서 동적 OG 태그 적용 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#csr-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%8F%99%EC%A0%81-og-%ED%83%9C%EA%B7%B8-%EC%A0%81%EC%9A%A9" target="_blank">경력 기술서 보기</a>)
                         <ul>
                             <li>AWS CloudFront Function을 활용해 요청된 URL에 맞는 동적 OG 태그가 포함된 HTML을 반환하도록 설정</li>
                         </ul>
                     </li>
                     <li>
-                        동적 서브도메인의 검색엔진 최적화를 위한 사이트맵 관리와 개선 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#%EB%8F%99%EC%A0%81-%EC%84%9C%EB%B8%8C%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%98-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A7%B5-%EA%B4%80%EB%A6%AC%EC%99%80-%EA%B0%9C%EC%84%A0" target="_blank">경력 기술서 보기</a>)
+                        동적 서브도메인의 검색엔진 최적화를 위한 사이트맵 관리와 개선 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#%EB%8F%99%EC%A0%81-%EC%84%9C%EB%B8%8C%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%98-%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%B5%9C%EC%A0%81%ED%99%94%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A7%B5-%EA%B4%80%EB%A6%AC%EC%99%80-%EA%B0%9C%EC%84%A0" target="_blank">경력 기술서 보기</a>)
                         <ul>
                             <li>
                                 next.js의 Dynamic Routes 이용해, 서브도메인별로 동적으로 사이트맵과 robots.txt를 생성 및 관리
@@ -100,7 +100,7 @@ order: 4
                 <h5>개발경험 개선</h5>
                 <ul>
                     <li>
-                        Sentry 도입 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#sentry-%EB%8F%84%EC%9E%85" target="_blank">경력 기술서 보기</a>)
+                        Sentry 도입 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#sentry-%EB%8F%84%EC%9E%85" target="_blank">경력 기술서 보기</a>)
                         <ul>
                             <li>비용 절감 및 데이터 보안을 위해 온프레미스 방식으로 적용</li>
                             <li>beforeSend 기능 활용해, 긴급도 및 중요도가 높은 오류만 Sentry로 전송</li>
@@ -111,7 +111,7 @@ order: 4
                         </ul>
                     </li>
                     <li>
-                        디자인 토큰 도입 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%86%A0%ED%81%B0-%EB%8F%84%EC%9E%85" target="_blank">경력 기술서 보기</a>)
+                        디자인 토큰 도입 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#%EB%94%94%EC%9E%90%EC%9D%B8-%ED%86%A0%ED%81%B0-%EB%8F%84%EC%9E%85" target="_blank">경력 기술서 보기</a>)
                         <ul>
                             <li>피그마 플러그인을 사용해 디자인 변경 사항을 .json 토큰 파일로 생성한 뒤, 토큰 파일을 GitHub에 디자이너 전용 브랜치로 푸시</li>
                             <li>Token Transformer 및 Style Dictionary 활용해, .json 파일을 코드에서 사용할 수 있는 형식(.ts, .scss, .css 등)으로 변환</li>
@@ -129,7 +129,7 @@ order: 4
                 <h5>기술 스택 전환 및 업그레이드</h5>
                 <ul>
                     <li>
-                        Next.js 버전 업그레이드 주도 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#nextjs-%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EC%A3%BC%EB%8F%84" target="_blank">경력 기술서 보기</a>)
+                        Next.js 버전 업그레이드 주도 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#nextjs-%EB%B2%84%EC%A0%84-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%EC%A3%BC%EB%8F%84" target="_blank">경력 기술서 보기</a>)
                         <ul>
                             <li>
                                 모노레포 환경에서 발생한 다중 React 버전 문제를 해결
@@ -166,8 +166,8 @@ order: 4
                 <h5>기타</h5>
                 <ul>
                     <li>stibee.com 리액트 전환</li>
-                    <li>결제 데이터 문서화 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#%EA%B2%B0%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EC%84%9C%ED%99%94" target="_blank">경력 기술서 보기</a>)</li>
-                    <li>백 오피스 정산 프로세스 자동화 기능 기획 및 개발 (<a href="https://suyeon9456.github.io/%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C/#%EC%A0%95%EC%82%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%8A%A5-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-%EA%B0%9C%EB%B0%9C" target="_blank">경력 기술서 보기</a>)</li>
+                    <li>결제 데이터 문서화 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#%EA%B2%B0%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EC%84%9C%ED%99%94" target="_blank">경력 기술서 보기</a>)</li>
+                    <li>백 오피스 정산 프로세스 자동화 기능 기획 및 개발 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#%EC%A0%95%EC%82%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%8A%A5-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-%EA%B0%9C%EB%B0%9C" target="_blank">경력 기술서 보기</a>)</li>
                     <li>에디터 기능 추가 및 유지보수</li>
                     <li>랜딩 페이지 리뉴얼</li>
                     <li>신규 팀원을 위한 온보딩</li>

@@ -11,7 +11,7 @@ order: 4
 {: .prompt-tip } -->
 <i class="fa-fw fas fa-envelope"></i> 이메일: [eunhye9450@gmail.com](mailto:eunhye9450@gmail.com)  
 <i class="fa-fw fas fab fa-github"></i> 깃허브: [https://suyeon9456.github.io](https://suyeon9456.github.io)  
-<i class="fa-fw fas fa-brands fa-blogger"></i> 이전 블로그: [노션](https://www.notion.so/suyeon_i-4a5e4b399d414c85884f2024a804f340), [velog](https://velog.io/@suyeon9456/posts)
+<i class="fa-fw fas fa-brands fa-blogger"></i> 이전 블로그: [노션](https://www.notion.so/suyeon_i-4a5e4b399d414c85884f2024a804f340), [velog](https://velog.io/@suyeon9456/posts)  
 <i class="fa-fw fas fa-brands fa-blogger"></i> 블로그: [https://suyeon9456.github.io/](https://suyeon9456.github.io/)
   
 **사용자 경험을 개선**하며 제품의 가치를 높이는 일에 열정을 가지고 있습니다. 코드 품질과 제품의 완성도를 향상시키기 위해 **기술 업그레이드와 프로세스 개선**을 적극적으로 도입하며, 데이터에 기반해 제품을 지속적으로 개선하는 것을 좋아합니다. 또한, **팀과 함께 성장**하며 같은 목표를 공유하고, 스터디와 협업을 통해 서로 배우고 발전해 나가는 데 큰 보람을 느낍니다.

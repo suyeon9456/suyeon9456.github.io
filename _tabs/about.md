@@ -12,8 +12,9 @@ order: 4
 <i class="fa-fw fas fa-envelope"></i> 이메일: [eunhye9450@gmail.com](mailto:eunhye9450@gmail.com)  
 <i class="fa-fw fas fab fa-github"></i> 깃허브: [https://suyeon9456.github.io](https://suyeon9456.github.io)  
 <i class="fa-fw fas fa-brands fa-blogger"></i> 이전 블로그: [노션](https://www.notion.so/suyeon_i-4a5e4b399d414c85884f2024a804f340), [velog](https://velog.io/@suyeon9456/posts)
+<i class="fa-fw fas fa-brands fa-blogger"></i> 블로그: [https://suyeon9456.github.io/](https://suyeon9456.github.io/)
   
-**사용자 경험을 개선**하며 제품의 가치를 높이는 일에 열정을 가지고 있습니다. 코드 품질과 제품의 완성도를 향상시키기 위해 **기술 업그레이드와 프로세스 개선**을 적극적으로 도입하며, **데이터에 기반**해 제품을 지속적으로 개선하는 것을 좋아합니다. 또한, **팀과 함께 성장**하며 같은 목표를 공유하고, 스터디와 협업을 통해 서로 배우고 발전해 나가는 데 큰 보람을 느낍니다.
+**사용자 경험을 개선**하며 제품의 가치를 높이는 일에 열정을 가지고 있습니다. 코드 품질과 제품의 완성도를 향상시키기 위해 **기술 업그레이드와 프로세스 개선**을 적극적으로 도입하며, 데이터에 기반해 제품을 지속적으로 개선하는 것을 좋아합니다. 또한, **팀과 함께 성장**하며 같은 목표를 공유하고, 스터디와 협업을 통해 서로 배우고 발전해 나가는 데 큰 보람을 느낍니다.
 <!-- 변화와 개선을 사랑하는 저는 더 나은 방향으로 한 걸음씩 나아가고자 노력합니다. -->
 
 ## 기술 스택 
@@ -40,6 +41,7 @@ order: 4
     - 프로젝트에서 **SEO 최적화 작업**을 통해 검색 성능을 개선한 경험이 있습니다.
     - CSR, SSR, SSG의 차이점을 명확히 이해하고 적합한 상황에 따라 적용할 수 있습니다.
     - **재사용 가능한 컴포넌트**를 설계하고 최적화하여 유지보수성과 확장성을 높이는 것을 좋아합니다.
+    - react-query의 queryKey를 효율적으로 관리하는데, 관심이 많습니다.
     - 라이브러리 없이 Vanilla JS 로 DOM을 다루는데 능숙합니다.
 - 클라우드 활용 및 배포 경험
     - EC2, S3, CloudFront 등 AWS 서비스를 활용해 **배포 환경을 구축**한 경험이 있습니다.
@@ -50,7 +52,7 @@ order: 4
     - 팀원, 디자이너, PM과의 원활한 소통으로 프로젝트 **목표와 방향성을 공유**합니다.
 - 마인드셋과 성장 동력
     - **함께 배우고 발전**하며 같은 목표를 향해 나아가는 데 큰 보람을 느낍니다.
-    - 기존 시스템과 프로세스를 객관적으로 평가하고, **더 나은 방향으로 개선**하는 것을 좋아합니다.
+    - 기존 시스템과 프로세스에서 변화를 두려워하지 않고, **더 나은 방향으로 개선**하는 것을 좋아합니다.
     - 새로운 기술 트렌드와 개발 방법론을 **적극적으로 학습**하고 배운것을 **실무에 적용**하기 위해 노력합니다.  
 
 ---
@@ -65,13 +67,13 @@ order: 4
             <header>
                 <h3 id="title">스티비</h3>
                 <p><strong>사원 · 프론트엔드</strong></p>
-                <p>2022.10. ~ 2024.12. (2년 3개월 | 정규직)</p>
+                <p>2022.10. ~ 2024.12. (2년 3개월)</p>
             </header>
             <div>
                 <h5>SEO 최적화</h5>
                 <ul>
                     <li>
-                        CSR 환경에서 동적 OG 태그 적용 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#csr-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%8F%99%EC%A0%81-og-%ED%83%9C%EA%B7%B8-%EC%A0%81%EC%9A%A9" target="_blank">경력 기술서 보기</a>)
+                        앵귤러기반에 리액트가 렌더링 되는 환경에서 동적 OG 태그 적용 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#csr-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EB%8F%99%EC%A0%81-og-%ED%83%9C%EA%B7%B8-%EC%A0%81%EC%9A%A9" target="_blank">경력 기술서 보기</a>)
                         <ul>
                             <li>AWS CloudFront Function을 활용해 요청된 URL에 맞는 동적 OG 태그가 포함된 HTML을 반환하도록 설정</li>
                         </ul>
@@ -179,7 +181,7 @@ order: 4
             <header>
                 <h3 id="title">M114</h3>
                 <p><strong>사원 · 개발자</strong></p>
-                <p>2020.01. ~ 2021.03. (1년 3개월 | 정규직)</p>
+                <p>2020.01. ~ 2021.03. (1년 3개월)</p>
             </header>
             <ul>
                 <li>한국보건사회연구원 (사용자, 관리자) 리뉴얼 프로젝트</li>
@@ -193,7 +195,7 @@ order: 4
             <header>
                 <h3 id="title">다온 EMC</h3>
                 <p><strong>사원 · 컨텐츠 디자이너</strong></p>
-                <p>2016.10. ~ 2019.01. (2년 4개월 | 정규직)</p>
+                <p>2016.10. ~ 2019.01. (2년 4개월)</p>
             </header>
             <ul>
                 <li>한양사이버대학교 전체 이러닝컨텐츠 유지보수 담당</li>

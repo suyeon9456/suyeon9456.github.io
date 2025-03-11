@@ -25,7 +25,7 @@ order: 4
 - Next.js
 - react-query
 - zustand
-- redux
+- Redux
 - AngularJs
 - EC2
 - S3
@@ -43,6 +43,7 @@ order: 4
     - **재사용 가능한 컴포넌트**를 설계하고 최적화하여 유지보수성과 확장성을 높이는 것을 좋아합니다.
     - react-query의 queryKey를 효율적으로 관리하는데, 관심이 많습니다.
     - 라이브러리 없이 Vanilla JS 로 DOM을 다루는데 능숙합니다.
+    - TypeScript를 활용한 안전한 코드 작성에 익숙하며, 제네릭, 유틸리티 타입 등을 적극적으로 활용하여 타입 안정성을 높입니다.
 - 클라우드 활용 및 배포 경험
     - EC2, S3, CloudFront 등 AWS 서비스를 활용해 **배포 환경을 구축**한 경험이 있습니다.
     - 지속적인 통합과 배포를 위한 **CI/CD 파이프라인을 설계하고 구현**한 경험이 있습니다.
@@ -266,6 +267,37 @@ order: 4
 선택하여 매칭 신청을 보낼 수 있습니다.
 - 기존 별점을 사용하고 있는 어플리케이션이 리뷰이벤트나 광고를 이용하여 높은 별점을 유지하는 방식이 
 별점 또는 랭킹의 순기능을 사용자가 제대로 이용할 수 없다고 생각하여 별점이 아닌 재매칭률을 계산하는 방식으로 개발했습니다.
+
+**기술 스택**
+{: .tech-title}
+
+프론트엔드
+- Next.js
+- React
+- TypeScript
+- react-query
+- zustand
+- Redux
+- ~~ReduxSaga~~
+- Redux-Tookit
+{: .tech-list}
+
+백엔드
+- Node.js
+- express
+- sequelize
+{: .tech-list}
+
+데이터베이스
+- MySql
+- RDS
+{: .tech-list}
+
+클라우드 및 배포
+- EC2
+- S3
+- CloudFront
+{: .tech-list}
 
 <i class="fa-fw fas fab fa-github"></i> 깃허브: [health-friends](https://github.com/suyeon9456/health_friends)  
 <i class="fa-fw fas fa-brands fa-blogger"></i> 블로그: [health-friends 정보](https://www.notion.so/HEALTH_FRIENDS-ecaae7bdb9ad45bb894aa5fed359cc02)

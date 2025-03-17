@@ -10,7 +10,7 @@ order: 4
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 <i class="fa-fw fas fa-envelope"></i> 이메일: [eunhye9450@gmail.com](mailto:eunhye9450@gmail.com)  
-<i class="fa-fw fas fab fa-github"></i> 깃허브: [https://suyeon9456.github.io](https://suyeon9456.github.io)  
+<i class="fa-fw fas fab fa-github"></i> 깃허브: [https://github.com/suyeon9456](https://github.com/suyeon9456)  
 <i class="fa-fw fas fa-brands fa-blogger"></i> 이전 블로그: [노션](https://sparkly-reaction-fac.notion.site/suyeon_i-67f5a07cd3fc474ea68b109b300054dd), [velog](https://velog.io/@suyeon9456/posts)  
 <i class="fa-fw fas fa-brands fa-blogger"></i> 블로그: [https://suyeon9456.github.io/](https://suyeon9456.github.io/)
   

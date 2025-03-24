@@ -36,8 +36,8 @@ order: 4
 ## 핵심 역량
 {: .core-competency}
 - 프론트엔드 개발 역량
-    - React, Next.js, AngularJs 다양한 프레임워크와 라이브러리를 활용할 수 있습니다.
-    - Redux, Zustand 등 상태 관리 활용할 수 있으며, React-query를 사용하여 서버데이터를 캐싱 및 관리할 수 있습니다.
+    - **React, Next.js, AngularJs**에 대한 프로젝트 경험이 있습니다.
+    - Zustand, Redux 등 상태 관리 활용할 수 있으며, React-query를 사용하여 서버데이터를 캐싱 및 관리할 수 있습니다.
     - 프로젝트에서 **SEO 최적화 작업**을 통해 검색 성능을 개선한 경험이 있습니다.
     - CSR, SSR, SSG의 차이점을 명확히 이해하고, 프로젝트 요구사항에 맞춰 적절한 렌더링 방식을 적용할 수 있습니다.
     - **재사용 가능한 컴포넌트**를 설계하고 최적화하여 유지보수성과 확장성을 높이는 것을 좋아합니다.
@@ -52,9 +52,9 @@ order: 4
     - **코드 리뷰**를 적극적으로 진행하며, 클린 코드와 효율적인 개발 프로세스를 지향합니다.
     - 다양한 직군의 팀원들과 정기적인 회의, 피드백 공유, 문서화를 통해 **명확한 커뮤니케이션**을 하며, 프로젝트 목표와 방향성을 공유하고 효과적으로 협업합니다.
 - 마인드셋과 성장 동력
-    - 함께 배우고 성장하며 공동의 목표를 달성하는 과정에서 보람을 느낍니다.
-    - 기존 시스템과 프로세스에서 변화를 두려워하지 않고, 더 나은 방향으로 개선하는 것을 좋아합니다.
-    - 새로운 기술 트렌드와 개발 방법론을 적극적으로 학습하고 배운것을 실무에 적용하기 위해 노력합니다. 
+    - **함께 배우고 성장**하며 **공동의 목표를 달성**하는 과정에서 보람을 느낍니다.
+    - 기존 시스템과 프로세스에서 변화를 두려워하지 않고, **더 나은 방향으로 개선**하는 것을 즐깁니다.
+    - 새로운 기술 트렌드와 개발 방법론을 **적극적으로 학습**하고 배운것을 실무에 적용하기 위해 노력합니다. 
 
 ---
 <section class="experience">
@@ -129,6 +129,13 @@ order: 4
                         </ul>
                     </li>
                 </ul>
+                <h5>세그먼트 기능 개발</h5>
+                <ul>
+                    <li>세그먼트 조건을 설정하는데 필요한 Cascader, Select, DatePicker를 재사용 가능한 공통 컴포넌트로 설계 및 제작</li>
+                    <li>Mixpanel을 연동하여 사용자 이벤트 데이터를 수집</li>
+                    <li>수집된 내용을 바탕으로 첫 생성에 어려움을 겪는 사용자를 위해 세그먼트 템플릿 추가</li>
+                    <li>세그먼트 조건 선택에 대한 Jest와 React Testing Library를 사용하여 단위 테스트를 작성</li>
+                </ul>
                 <h5>기술 스택 전환 및 업그레이드</h5>
                 <ul>
                     <li>
@@ -159,21 +166,29 @@ order: 4
                             </li>
                         </ul>
                     </li>
+                    <li>
+                        AngularJs프로젝트 React로 마이그레이션
+                        <ul>
+                            <li>AngularJS와 React가 공존하는 상태를 유지하며, 핵심 페이지부터 우선적으로 전환하는 방식으로 안정적인 리팩토링을 진행</li>
+                            <li>공통된 오류 처리와 사용자 경험 향상을 위해 전역 ErrorBoundary 컴포넌트를 도입</li>
+                            <li>react-query의 query key를 query key factory 패턴으로 관리해 여러 컴포넌트나 훅에서 일관된 키를 쉽게 재사용</li>
+                            <li>React 마이그레이션 과정에서 각 페이지, 모달 등 다양한 AngularJS 컴포넌트를 React 컴포넌트로 점진적으로 전환</li>
+                        </ul>
+                    </li>
+                </ul>
+                <h5>기타</h5>
+                <ul>
+                    <li>랜딩 페이지 리뉴얼</li>
+                    <li>결제 데이터 문서화 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#%EA%B2%B0%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EC%84%9C%ED%99%94" target="_blank">경력 기술서 보기</a>)</li>
+                    <li>백 오피스 정산 프로세스 자동화 기능 기획 및 개발 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#%EC%A0%95%EC%82%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%8A%A5-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-%EA%B0%9C%EB%B0%9C" target="_blank">경력 기술서 보기</a>)</li>
+                    <li>에디터 기능 추가 및 유지보수</li>
+                    <li>신규 팀원을 위한 온보딩</li>
                 </ul>
                 <h5>스터디</h5>
                 <ul>
                     <li>typescript 기초 스터디 운영 (프론트엔드 팀)</li>
                     <li>tidy first 책 스터디 운영 (개발팀)</li>
                     <li>웹접근성 스터디 참여 (PD, FE)</li>
-                </ul>
-                <h5>기타</h5>
-                <ul>
-                    <li>stibee.com 리액트 전환</li>
-                    <li>결제 데이터 문서화 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#%EA%B2%B0%EC%A0%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EC%84%9C%ED%99%94" target="_blank">경력 기술서 보기</a>)</li>
-                    <li>백 오피스 정산 프로세스 자동화 기능 기획 및 개발 (<a href="https://suyeon9456.github.io/curriculum_vitae_(%EA%B2%BD%EB%A0%A5%EA%B8%B0%EC%88%A0%EC%84%9C)/#%EC%A0%95%EC%82%B0-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%9E%90%EB%8F%99%ED%99%94-%EA%B8%B0%EB%8A%A5-%EA%B8%B0%ED%9A%8D-%EB%B0%8F-%EA%B0%9C%EB%B0%9C" target="_blank">경력 기술서 보기</a>)</li>
-                    <li>에디터 기능 추가 및 유지보수</li>
-                    <li>랜딩 페이지 리뉴얼</li>
-                    <li>신규 팀원을 위한 온보딩</li>
                 </ul>
             </div>
         </div>

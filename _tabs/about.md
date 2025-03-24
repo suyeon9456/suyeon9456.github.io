@@ -6,6 +6,7 @@ order: 4
 
 <!-- ### 프론트엔드 개발자   -->
 # 조수연  
+{: .info }
   
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
@@ -13,9 +14,13 @@ order: 4
 <i class="fa-fw fas fab fa-github"></i> 깃허브: [https://github.com/suyeon9456](https://github.com/suyeon9456)  
 <i class="fa-fw fas fa-brands fa-blogger"></i> 이전 블로그: [노션](https://sparkly-reaction-fac.notion.site/suyeon_i-67f5a07cd3fc474ea68b109b300054dd), [velog](https://velog.io/@suyeon9456/posts)  
 <i class="fa-fw fas fa-brands fa-blogger"></i> 블로그: [https://suyeon9456.github.io/](https://suyeon9456.github.io/)
+
   
 **사용자 경험을 개선**하며 제품의 가치를 높이는 일에 열정을 가지고 있습니다. 코드 품질과 제품의 완성도를 향상시키기 위해 **기술 업그레이드와 프로세스 개선**을 적극적으로 도입하며, 데이터에 기반해 제품을 지속적으로 개선하는 것을 좋아합니다. 또한, **팀과 함께 성장**하며 같은 목표를 공유하고, 스터디와 협업을 통해 서로 배우고 발전해 나가는 데 큰 보람을 느낍니다.
 <!-- 변화와 개선을 사랑하는 저는 더 나은 방향으로 한 걸음씩 나아가고자 노력합니다. -->
+
+---
+{: .line }
 
 ## 기술 스택 
 {: .tech-title}

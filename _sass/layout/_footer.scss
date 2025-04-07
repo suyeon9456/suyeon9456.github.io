@@ -3,6 +3,12 @@
 @use '../abstracts/mixins' as mx;
 @use '../abstracts/placeholders';
 
+@media print {
+  #tail-wrapper {
+    display: none;
+  }
+}
+
 footer {
   background-color: var(--main-bg);
   height: v.$footer-height;

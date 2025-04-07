@@ -190,6 +190,10 @@ order: 4
             </header>
             <ul>
                 <li>한국보건사회연구원 (사용자, 관리자) 리뉴얼 프로젝트</li>
+                    <ul>
+                        <li>기존 JSP 기반 시스템을 Nuxt로 마이그레이션</li>
+                        <li>관리자(어드민) 페이지는 Vue.js로 재구축</li>
+                    </ul>
                 <li>saferlock (사용자, 관리자) 신규 프로젝트</li>
                 <li>보건복지데이터포털 (사용자, 관리자) 리뉴얼 프로젝트 및 유지보수</li>
                 <li>한국보건사회연구원, 복지패널, 의료패널(사용자, 관리자) 유지보수</li>
@@ -262,6 +266,7 @@ order: 4
 - TypeScript
 - Next.js
 - Vue
+- Nuxt
 - AngularJs
 - react-query
 - zustand

@@ -3,6 +3,12 @@
 @use '../abstracts/breakpoints' as bp;
 @use '../abstracts/placeholders';
 
+@media print {
+  #topbar-wrapper {
+    display: none;
+  }
+}
+
 #topbar-wrapper {
   height: v.$topbar-height;
   background-color: var(--topbar-bg);

@@ -4,17 +4,17 @@
 *:not(i) {
   font-family: 'Pretendard' !important;
 }
-p,
-details,
-li {
-  font-size: 14px;
+.about p,
+.about details,
+.about li {
+  font-size: 16px;
 }
 
 summary {
   font-size: 16px;
 }
 
-.dynamic-title {
+.about .dynamic-title {
   display: none;
 }
 
@@ -24,27 +24,39 @@ hr {
 }
 
 .info {
+  margin-top: 10px;
   margin-bottom: 30px;
+  color: #757575;
+  font-size: 16px;
 }
 
 .line {
   margin-bottom: 20px !important;
 }
 
-h2 {
+.about h1 {
+  font-size: 32px !important;
+  font-weight: 700;
+}
+
+.about h2 {
   margin-top: 0px !important;
   font-weight: 600;
+  font-size: 24px !important;
+  background: none !important;
+  background: none;
   &.tech-title,
   &.portpolio,
   &.core-competency {
-    font-size: 18px;
     background: none;
+    margin-top: 32px !important;
   }
   &.portpolio {
     margin-top: 20px !important;
   }
   &.title {
     margin-top: 0 !important;
+    margin-bottom: 0 !important;
   }
 }
 
@@ -62,6 +74,7 @@ ul.tech-list {
 }
 
 section.experience,
+section.project,
 section.other-experience {
   display: flex;
   gap: 20px;
@@ -73,7 +86,6 @@ section.other-experience {
   article {
     width: 100%;
     h3 {
-      background: aliceblue;
       margin: 0 !important;
       font-weight: 600;
     }
@@ -87,4 +99,63 @@ section.other-experience {
     width: 120px;
     padding-top: 20px;
   }
+}
+
+h5 {
+  font-weight: 700;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+div.stack {
+}
+.ex-line {
+  margin: 0 5px;
+}
+
+.about #panel-wrapper {
+  display: none;
+}
+
+.about {
+  width: 100% !important;
+}
+
+@media print {
+  .page-break {
+    break-before: page; /* 최신 브라우저 */
+    page-break-before: always; /* 구형 브라우저 */
+  }
+}
+
+span.period {
+  font-size: 14px;
+  color: #757575;
+}
+.ex-info {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+@media print {
+  code.highlighter-rouge {
+    font-size: 0.85rem;
+    padding: 3px 5px;
+    word-break: break-word;
+    border-radius: 6px;
+    background-color: rgba(25, 25, 28, 0.05);
+  }
+  .highlighter-rouge {
+    color: #3f596f !important;
+    margin-top: 0.5rem;
+    margin-bottom: 1.2em;
+  }
+}
+
+.about-main {
+  width: 100%;
 }
